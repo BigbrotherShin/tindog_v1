@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,900|Ubuntu:400,700&display=swap");
+
+/* title */
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+body {
+  font-family: "Montserrat", serif;
+}
+
+h1 {
+  font-family: "Montserrat", serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: "Montserrat", serif;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+/* Navigation Bar */
+
+.nav-item {
+  margin: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+  background-color: none;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+/* download-button */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title image */
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+/* featuers */
+
+#features {
+  padding: 7% 15%;
+}
+
+.f-icon-size {
+  font-size: 4rem;
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.f-icon-size:hover {
+  color: #ff4c68;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-family: "Montserrat", serif;
+  font-weight: 900;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
